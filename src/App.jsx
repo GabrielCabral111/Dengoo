@@ -52,7 +52,7 @@ function App() {
 
 					{/* Rotas para o sobre  */}
 
-                    <Route path='/sobre' element={<Sobre />} />
+                    <Route path='/sobrer' element={<Sobre />} />
 
 
 
