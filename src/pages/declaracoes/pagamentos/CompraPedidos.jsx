@@ -37,7 +37,7 @@ export default function PedidosDownloadQR() {
               className="w-32 h-32 mb-2 translate-y-60 md:translate-x-105 md:-translate-y-9"
             />
             <a
-              href="https://produtosdengoo.netlify.app/pedido/pedidocarta.html"
+              href="https://produtos-dengoo.vercel.app/pedido/pedidocarta.html"
               target="_blank"
               className="bg-blue-600 hover:bg-blue-700 text-white -translate-y-20 translate-x- py-2 px-4 rounded shadow text-center  md:translate-y-20.5  md:translate-x-31"
             >
