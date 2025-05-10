@@ -22,7 +22,7 @@ const Carta = () => {
                     <div className="relative custom-gradient w-8/10 h-80 mt-2 md:ml-9 max-w-130
                      max-h-90 rounded-2xl flex justify-center items-center text-center md:rotate-6 lg:left-20 lg:w-200 lg:h-100 ">
                         <div className="bg-[#F0DEFF] w-8/10 h-65 rounded-2xl flex flex-col justify-center items-center lg:text-justify lg:justify-center">
-                            <h3 className="text-2xl text-[#000] font-medium ">Para minha princesa</h3>
+                            <h3 className="text-2xl text-[#000] font-medium ">Para minha Querida</h3>
                             <p className="text-[11px] p-2 md:p-4 l font-medium lg:text-[13px]   text-[#000] "> Nos seus braços, encontro paz e felicidade, querida. Você é meu apoio,  minha alegria e meu amor verdadeiro, simplesmente a namorada perfeita!  Eu lhe agradeço, não só hoje, mas sempre, por cada momento incrível que  compartilhamos, por saber que não estou só, que ao seu lado eu pertenço e tudo é vida neste mundo. Sem você eu jamais iria descobrir quão bela  pode ser a vida. Te amo mais do que você pode imaginar. </p>
                         </div>
                     </div>
