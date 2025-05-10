@@ -1,5 +1,5 @@
 import React from "react";
-import qrCodeSrc from "../images/Cartaqrco.png"
+import qrCodeSrc from "../images/cartasprodu.png"
 import { Link } from "react-router";
 
 

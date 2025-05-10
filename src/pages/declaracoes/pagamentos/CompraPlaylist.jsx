@@ -1,5 +1,5 @@
 import React from "react";
-import qrCodeSrc from "../images/playlisttqrco.png"
+import qrCodeSrc from "../images/playlistprodu.png"
 import { Link } from "react-router";
 
 
