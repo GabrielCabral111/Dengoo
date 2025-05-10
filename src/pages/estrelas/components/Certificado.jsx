@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Header from "./Header";
 import Certificado1 from '../images/CertificadoOficial.png';
-import ModalImage from '../images/CertificadoPR.png'; 
+import ModalImage from '../images/CertificadoOficial.png'; 
 import { useNavigate } from 'react-router-dom';
 
 function Certificado() {

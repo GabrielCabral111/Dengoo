@@ -102,7 +102,7 @@ const Playlist = () => {
                         </div>
 
                         <Link to="/declaracoes/playlist" className="relative 
-                                 py-7 flex flex-col items-center justify-center lg:flex-1/2 bg-gradient-to-r from-blue-500 to-purple-600 h-13  md:py-4 w-50 lg:h- rounded-3xl text-[#ffff] font-bold mt-4 ">
+                                 py-7 flex flex-col items-center justify-center lg:flex-1/2 translate-x-27 lg:translate-x-0  bg-gradient-to-r from-blue-500 to-purple-600 h-13  md:py-4 w-50 lg:h- rounded-3xl text-[#ffff] font-bold mt-4 ">
                             Criar Playlist
                         </Link>
                     </div>

@@ -24,7 +24,7 @@ function Final() {
     return (
         <div className="relative">
 
-            <section className="bg-[linear-gradient(to_bottom,rgba(17,9,105,0.9)_0%,#0a0438_15%,#11095e_30%,#190f85_45%,#2016ac_60%,#281ed4_75%,#3127fc_90%,#3a30ff_100%)] min-h-[500px] lg:min-h-[700px] flex flex-col justify-center items-center py-12 px-4 sm:py-16 lg:py-20 text-amber-50 relative overflow-hidden">
+            <section className="bg-[linear-gradient(to_bottom,rgba(17,9,105,0.9)_0%,#0a0438_15%,#11095e_30%,#190f85_45%,#2016ac_60%,#281ed4_75%,#1C0A68_90%,#08264B_100%)] min-h-[500px] lg:min-h-[700px] flex flex-col justify-center items-center py-12 px-4 sm:py-16 lg:py-20 text-amber-50 relative overflow-hidden">
                 <h1 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center max-w-[90%] sm:max-w-[80%] leading-tight mb-8 sm:mb-12'>
                     Já pensou em presentear uma <br className="hidden sm:block" /> pessoa com uma estrela?
                 </h1>
