@@ -43,12 +43,11 @@ export default function PlaylistDownloadQR() {
             >
               Produto
             </a>
-            <a
-              href="/declaracoes"
+            <Link to="/declaracoes"
               className="bg-blue-600 hover:bg-blue-700 text-white -translate-y-10 py-2 px-4 rounded shadow text-center md:translate-y-10.5 md:translate-x-113"
             >
               Sair
-            </a>
+            </Link>
             <button
               onClick={handleDownload}
               className="bg-gray-600 hover:bg-gray-700 text-white py-2 px-4 rounded shadow mb-2 translate-y-45  md:-translate-y-27 md:translate-x-107 "
